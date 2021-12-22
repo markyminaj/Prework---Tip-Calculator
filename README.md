@@ -28,7 +28,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-!(https://media.giphy.com/media/sk8FT1Y7l2ChUdacqp/giphy.gif)
+![Simulator](https://media.giphy.com/media/sk8FT1Y7l2ChUdacqp/giphy.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
